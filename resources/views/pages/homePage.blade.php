@@ -78,7 +78,23 @@
 			data-splitin="none" 
 			data-splitout="none" 
 			data-responsive_offset="on" 
-			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;">Great design is transparent </div>
+			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;text-align:center"><span style="background-color:#a5d03c;padding:5px">INNOVATIVE SOLUTION FROM AN EXPERIENCED </span></div>
+                
+                <!-- LAYER NR. 3 -->
+                <div class="tp-caption dosis ls-1 uppercase white tp-resizeme" 
+			data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			data-y="['top','top','top','top']" data-voffset="['550','320','340','250']" 
+			data-fontsize="['20','20','20','15']"
+			data-lineheight="['70','70','70','50']"
+			data-transform_idle="o:1;"
+			data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+			data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+			data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+			data-start="2000" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 20px;text-align:center"> WEB DESIGN COMPANY IN MADAURAI </div>
                 
                 <!-- LAYER NR. 4 -->
                 <div class="tp-caption rev-scroll-btn revs-fullwhite" 
@@ -121,7 +137,7 @@
 			data-splitin="none" 
 			data-splitout="none" 
 			data-responsive_offset="on" 
-			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;">Beautiful</div>
+			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;"><span style="color:#a5d03c">T</span>hink <span style="color:#a5d03c">D</span>ifferent</div>
                 
                 <!-- LAYER NR. 2 -->
                 <div class="tp-caption roboto white uppercase fweight-7 tp-resizeme" 
@@ -137,7 +153,7 @@
 			data-splitin="none" 
 			data-splitout="none" 
 			data-responsive_offset="on" 
-			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;">Shortcodes</div>
+			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;"><span style="color:#a5d03c">D</span>oing <span style="color:#a5d03c">G</span>reat</div>
                 
                 <!-- LAYER NR. 3 -->
                 <div class="tp-caption dosis ls-1 uppercase white tp-resizeme" 
@@ -153,7 +169,7 @@
 			data-splitin="none" 
 			data-splitout="none" 
 			data-responsive_offset="on" 
-			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;">get many more</div>
+			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;">Best Web Designing Company in Madurai.. </div>
                 
                 <!-- LAYER NR. 4 -->
                 <div class="tp-caption rev-scroll-btn revs-fullwhite" 
@@ -185,9 +201,9 @@
                 
                 <!-- LAYER NR. 1 -->
                 <div class="tp-caption roboto white uppercase fweight-7 tp-resizeme" 
-			data-x="['right','right','right','right']" data-hoffset="['70','50','10','0']" 
+			data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
 			data-y="['top','top','top','top']" data-voffset="['330','200','130','80']" 
-			data-fontsize="['120','120','90','60']"
+			data-fontsize="['100','100','90','60']"
 			data-lineheight="['100','100','100','100']"
 			data-transform_idle="o:1;"
 			data-transform_in="x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
@@ -197,13 +213,13 @@
 			data-splitin="none" 
 			data-splitout="none" 
 			data-responsive_offset="on" 
-			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;">Beautiful</div>
+			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;"><span style="color:#a5d03c;text-shadow: 7px 1px 1px #333333;">We b</span><span style="text-shadow: 7px 1px 1px #333333;">uild</span> <span style="color:#a5d03c">w</span>eb<span style="color:#a5d03c">s</span>ites</div>
                 
                 <!-- LAYER NR. 2 -->
                 <div class="tp-caption roboto white uppercase fweight-7 tp-resizeme" 
-			data-x="['right','right','right','right']" data-hoffset="['0','0','0','0']" 
+			data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
 			data-y="['top','top','top','top']" data-voffset="['420','290','210','130']" 
-			data-fontsize="['120','120','90','60']"
+			data-fontsize="['60','60','90','60']"
 			data-lineheight="['100','100','100','100']"
 			data-transform_idle="o:1;"
 			data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
@@ -213,11 +229,11 @@
 			data-splitin="none" 
 			data-splitout="none" 
 			data-responsive_offset="on" 
-			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;">Shortcodes</div>
+			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;">that will escalate your busines</div>
                 
                 <!-- LAYER NR. 3 -->
                 <div class="tp-caption dosis ls-1 uppercase white tp-resizeme" 
-			data-x="['center','center','center','center']" data-hoffset="['200','100','60','0']" 
+			data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
 			data-y="['top','top','top','top']" data-voffset="['510','380','300','210']" 
 			data-fontsize="['20','20','20','15']"
 			data-lineheight="['70','70','70','50']"
@@ -229,7 +245,7 @@
 			data-splitin="none" 
 			data-splitout="none" 
 			data-responsive_offset="on" 
-			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;">get many more</div>
+			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;"> <span style="background-color:#a5d03c;padding:5px">develop beautiful websites</span> in affordable cost</div>
                 
                 <!-- LAYER NR. 4 -->
                 <div class="tp-caption rev-scroll-btn revs-fullwhite" 
@@ -271,13 +287,13 @@
 			data-splitin="none" 
 			data-splitout="none" 
 			data-responsive_offset="on" 
-			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;">Beautiful</div>
+			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;"><span style="color:#a5d03c">THINK</span> DIGITAL</div>
                 
                 <!-- LAYER NR. 2 -->
                 <div class="tp-caption roboto white uppercase fweight-7 tp-resizeme" 
 			data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
 			data-y="['top','top','top','top']" data-voffset="['420','290','210','130']" 
-			data-fontsize="['120','120','90','60']"
+			data-fontsize="['80','80','90','60']"
 			data-lineheight="['100','100','100','100']"
 			data-transform_idle="o:1;"
 			data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
@@ -287,7 +303,7 @@
 			data-splitin="none" 
 			data-splitout="none" 
 			data-responsive_offset="on" 
-			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;">Shortcodes</div>
+			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;"><span style="color:#a5d03c">GO </span>  SOCIAL <span style="color:#a5d03c">MEDIA</span>  MARKETING</div>
                 
                 <!-- LAYER NR. 3 -->
                 <div class="tp-caption dosis ls-1 uppercase white tp-resizeme" 
@@ -303,7 +319,7 @@
 			data-splitin="none" 
 			data-splitout="none" 
 			data-responsive_offset="on" 
-			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;">get many more</div>
+			style="z-index: 6; white-space: nowrap; font-size: 30px; line-height: 30px;">WITH MADURAI LEADING EXPERIENTIAL</div>
                 
                 <!-- LAYER NR. 4 -->
                 <div class="tp-caption rev-scroll-btn revs-fullwhite" 
@@ -421,7 +437,7 @@
                 <div class="ce-feature-box-11 text-left margin-bottom">
                   <div class="img-box">
                     <div class="overlay"></div>
-                    <img src="images/9.jpg" alt="" class="img-responsive"/> </div>
+                    <img src="images/web_design.jpg" alt="" class="img-responsive"/> </div>
                   <div class="clearfix"></div>
                   <br/>
                   <div class="text-box">
@@ -438,7 +454,7 @@
                 <div class="ce-feature-box-11 text-left margin-bottom">
                   <div class="img-box">
                     <div class="overlay"></div>
-                    <img src="images/12.jpg" alt="" class="img-responsive"/> </div>
+                    <img src="images/mobile_app.jpg" alt="" class="img-responsive"/> </div>
                   <div class="clearfix"></div>
                   <br/>
                   <div class="text-box">
@@ -456,11 +472,11 @@
                 <div class="ce-feature-box-11 text-left margin-bottom">
                   <div class="img-box">
                     <div class="overlay"></div>
-                    <img src="images/11.jpg" alt="" class="img-responsive"/> </div>
+                    <img src="images/digital_marketing.jpg" alt="" class="img-responsive"/> </div>
                   <div class="clearfix"></div>
                   <br/>
                   <div class="text-box">
-                    <h5 class="title font-weight-5">SEO & SMO
+                    <h5 class="title font-weight-5">Digital Marketing
 </h5>
                     <p>Scenarios and strategies for SEO are changing continuously and you need strong partners who are fully aware of the changing needs to help you optimize your websites..</p>
                     <br/>
@@ -478,7 +494,7 @@
                 <div class="ce-feature-box-11 text-left margin-bottom">
                   <div class="img-box">
                     <div class="overlay"></div>
-                    <img src="images/9.jpg" alt="" class="img-responsive"/> </div>
+                    <img src="images/ecommerce.jpg" alt="" class="img-responsive"/> </div>
                   <div class="clearfix"></div>
                   <br/>
                   <div class="text-box">
@@ -495,7 +511,7 @@
                 <div class="ce-feature-box-11 text-left margin-bottom">
                   <div class="img-box">
                     <div class="overlay"></div>
-                    <img src="images/12.jpg" alt="" class="img-responsive"/> </div>
+                    <img src="images/customized.jpg" alt="" class="img-responsive"/> </div>
                   <div class="clearfix"></div>
                   <br/>
                   <div class="text-box">
@@ -512,11 +528,11 @@
                 <div class="ce-feature-box-11 text-left margin-bottom">
                   <div class="img-box">
                     <div class="overlay"></div>
-                    <img src="images/11.jpg" alt="" class="img-responsive"/> </div>
+                    <img src="images/domain_hosting.jpg" alt="" class="img-responsive"/> </div>
                   <div class="clearfix"></div>
                   <br/>
                   <div class="text-box">
-                    <h5 class="title font-weight-5">Fully Responsive Design</h5>
+                    <h5 class="title font-weight-5">Domain Name & Hosting</h5>
                     <p>Praesent mattis commodo augue Aliquam ornare hendrerit augue Cras tellus In pulvinar lectus Curabitur.</p>
                     <br/>
                     <br/>
