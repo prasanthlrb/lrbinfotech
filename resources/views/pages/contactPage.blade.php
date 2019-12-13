@@ -31,8 +31,8 @@
         <div class="header-inner">        
        <div class="overlay">       
        <div class="text text-center">
-    <h3 class="uppercase text-white less-mar-1 title">About Style 1</h3>
-    <h6 class="uppercase text-white sub-title">Get Many More Features</h6>
+    <h3 class="uppercase text-white less-mar-1 title">Contact US</h3>
+    <h6 class="uppercase text-white sub-title">Get In Touch With Us</h6>
     </div>
        </div>       
         </div></div>        
@@ -46,12 +46,11 @@
     <div class="pagenation-holder">
       <div class="container">
         <div class="row">
-       <div class="col-md-6"> <h4>About Style 1</h4></div>
+       <div class="col-md-6"> <h4> </h4></div>
         <div class="col-md-6">
         <ol class="breadcrumb">
     <li><a href="index.html">Home</a></li>
-    <li><a href="#">Pages</a></li>
-    <li class="current"><a href="#">About Style 1</a></li>
+    <li class="current"><a href="#">Contact</a></li>
 </ol>  
 </div>
           

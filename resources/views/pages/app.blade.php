@@ -77,41 +77,38 @@
 
 <div class="wrapper-boxed">
   <div class="site-wrapper">
-    <div class="col-md-12 nopadding">
-      <div class="header-section style1 noborder pin-style">
+    <div class="col-md-12 nopadding" >
+
+      
+      <div class="header-section style1 noborder pin-style" id="tr_navbar">
         <div class="container">
           <div class="mod-menu">
             <div class="row">
               <div class="col-sm-2"> <a href="index.html" title="" class="logo style-2 mar-4"> <img src="images/logo/logo2.png" alt="LRB INFO TECH LOGO" class="logo_width" id="logo2"> </a> </div>
               <div class="col-sm-10">
                 <div class="main-nav">
-                  <!-- <ul class="nav navbar-nav top-nav">
-                    <li class="search-parent"> <a href="javascript:void(0)" title=""><i aria-hidden="true" class="fa fa-search"></i></a>
-                      <div class="search-box ">
-                        <div class="content">
-                          <div class="form-control">
-                            <input type="text" placeholder="Type to search" />
-                            <a href="#" class="search-btn mar-1"><i aria-hidden="true" class="fa fa-search"></i></a> </div>
-                          <a href="#" class="close-btn mar-1">x</a> </div>
-                      </div>
-                    </li>
+                   <ul class="nav navbar-nav top-nav">
+                    <li>Call Us Now</li>
+                    <li>+91 70103 84622</li>
                    
-                  </ul> -->
+                  </ul>
                   <div id="menu" class="collapse">
                     <ul class="nav navbar-nav">
                       <li class="right "> <a href="/">Home</a> <span class="arrow"></span></li>
                       <li class="right "> <a href="/about">About Us</a> <span class="arrow"></span></li>
                       <li class="right "> <a href="/service/">Our Service</a> <span class="arrow"></span>
                        <ul>
-                              <li> <a href="page-about1.html">About Style 1</a> </li>
-                              <li> <a href="page-about2.html">About Style 2</a> </li>
-                              <li> <a href="page-about3.html">About Style 3</a> </li>
-                              <li> <a href="page-about4.html">About Style 4</a> </li>
-                              <li> <a href="page-about5.html">About Me</a> </li>
+                              <li> <a href="page-about1.html">Web Design & Developement</a> </li>
+                              <li> <a href="page-about2.html">Mobile App Development</a> </li>
+                              <li> <a href="page-about3.html">E-commerce Developement</a> </li>
+                              <li> <a href="page-about4.html">Digital Marketing</a> </li>
+                              <li> <a href="page-about5.html">Customized App Developement</a> </li>
+                              <li> <a href="page-about5.html">Domain & Hosting</a> </li>
                             </ul>
                       </li>
                       <li class="right "> <a href="/portfolio">Portfolio</a> <span class="arrow"></span></li>
                       <li class="right "> <a href="/blog">Blog</a> <span class="arrow"></span></li>
+                      <li class="right "> <a href="/contact">Contact Us</a> <span class="arrow"></span></li>
                       <li class="right "> <a href="/contact">Contact Us</a> <span class="arrow"></span></li>
                       
                     </ul>
@@ -307,6 +304,43 @@ $(window).on("scroll", function() {
 
 });
 
+ 
+    var new_scroll_position = 0;
+    var last_scroll_position;
+    var trNavbar = document.getElementById("tr_navbar");
+
+    window.addEventListener('scroll', function(e) {
+        last_scroll_position = window.scrollY;
+
+        // Scrolling down
+        if (new_scroll_position < last_scroll_position && last_scroll_position > 80) {
+            trNavbar.classList.remove("slideDown");
+            trNavbar.classList.add("slideUp");
+
+        // Scrolling up
+        } else if (new_scroll_position > last_scroll_position) {
+            trNavbar.classList.remove("slideUp");
+            trNavbar.classList.add("slideDown");
+        }
+
+      new_scroll_position = last_scroll_position;
+    });
+
+ 
+
+
+var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+    document.getElementById("tr_navbar").style.top = "0";
+  } else {
+    document.getElementById("tr_navbar").style.top = "-100px";
+  }
+  prevScrollpos = currentScrollPos;
+}
+
 </script>
+
 </body>
 </html>

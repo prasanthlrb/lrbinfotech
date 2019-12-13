@@ -43,130 +43,161 @@
     </div>
   </section>
    <div class="clearfix"></div>
-   <section class="sec-padding">
+
+
+
+  <section class="sec-padding " >
       <div class="container">
         <div class="row">
-          <div class="col-md-6 margin-bottom"> <img src="images/p2.jpg" alt="" class="img-responsive"> </div>
-          <!--end item-->
           
           
-          <div class="col-md-6 padding-left-6">
+          
+          <div class="col-md-5 padding-left-5">
            
            <div class="col-sm-12 nopadding">
-                <div class="sec-title-container less-padding-3 text-left">
-                  <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary">What we offer for your business</h5>
-                  <h2 class="font-weight-6 less-mar-1 line-height-4">We Create awesome designs <br>
-                    for your Business </h2>
-                  <div class="ce-title-line align-left"></div>
-                </div>
+              <div class="sec-title-container less-padding-3 text-left">
+                {{-- <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary">Web Development Company in Madurai</h5> --}}
+                <h2 class="font-weight-6 less-mar-1 line-height-4">About Us</h2>
+                <div class="ce-title-line align-left"></div>
               </div>
-              <div class="clearfix"></div>
-              <!--end title-->
+            </div>
+            <div class="clearfix"></div>
+            <!--end title-->
               
-            <br>
-            <p>
-                We are a cluster of innovation and creativity and the best website designing company in Madurai. We offer mainly skills like website design/development,  Mobile Application & Software Development , SEO & SMO  and where they meet, We have been in this business for years now and since then we are committed to offering amazing digital projects completed to meet the highest standards. We have a fully occupied staff having highly qualified and skilled members in Madurai. </p>
+            {{-- <p>'<a href="lrbtech.com" class="text-primary"><b>LRB INFO TECH</b></a> is an innovative and creative <a href="lrbtech.com" class="text-primary"><b>Software and Web Development Company in Madurai</b></a>,Our professional team is well experienced and forward thinking. Our specialty in crafting bespoken website design solutions that assist our patrons creates a wonderful web presence that matches your company’s individuality'</p> --}}
+
+            <p><a href="lrbtech.com" class="text-primary"><b>LRB INFO TECH</b></a> is a Leading Web Design Company in Madurai,India. We at Professional Web Design and Development Company in Madurai,India, provide a wide range of Creative and Technical Web Solutions including Web Design, Web Development, Website Hosting, Digital Marketing and SEO Services. Whether it is Developing a successful ECommerce Store, Creating a Corporate Online Presence.</p>
+
+            <p><a href="lrbtech.com" class="text-primary"><b>LRB INFO TECH</b></a> Web experts having 5+ years of experience to assist you in achieving your goals from the simplest static site to full-blown content managed enterprise solutions. At our Web Designing Company Madurai,India, our Web Designers and Developers are dedicated to producing quality business websites.we offer a full Web Service, which begins with design and carries through to Internet Marketing, SEO, and beyond.You can view projects that we have recently launched in our web portfolio here: <a href="lrbtech.com/portfolio" class="text-primary"><b>www.lrbtech.com/portfolio</b></a></p>
             
-            <br>
-            <br>
-            <a class="btn btn-prim btn-round uppercase" href="#">Read more</a> </div>
+            
+          </div>
           <!--end item--> 
+
+          <div class="col-md-7 margin-bottom"> 
+            <img src="images/p7.jpg" alt="web design company in madurai" class="img-responsive"/> 
+          </div>
+          <!--end item-->
           
            
         </div>
       </div>
     </section>
-   <div class="clearfix"></div>
-     <div class="parallax vertical-align" data-parallax-bg-image="images/parallax/1.jpg" data-parallax-speed="0.9" data-parallax-direction="down" style="position: relative; background: transparent; overflow: hidden; z-index: 1;"><div class="parallax-inner" style="position: absolute; background-image: url(&quot;images/parallax/1.jpg&quot;); background-position: center center; background-repeat: no-repeat; background-size: cover; width: 1800px; height: 1128.38px; transform: translate3d(0px, -109.237px, 0px); z-index: -1;"></div>
-      <div class="parallax-overlay bg-opacity-8">
-        <div class="container sec-tpadding-2 sec-bpadding-2">
-          <div class="row">
-            <div class="col-md-3">
-              <div class="ce-feature-box-43 margin-bottom">
-                <div class="icon-plain-small center dark icon"><span class="icon-basket"></span></div>
-                <br>
-                <h2 class="font-weight-6 less-mar-1 title">2560</h2>
-                <h6 class="subtext">Total Projects</h6>
-              </div>
+    <div class="clearfix"></div>
+    <!-- end section -->
+
+    <div class="parallax vertical-align" data-parallax-bg-image="images/parallax/1.jpg" data-parallax-speed="0.9" data-parallax-direction="down" style="position: relative; background: transparent; overflow: hidden; z-index: 1;"><div class="parallax-inner" style="position: absolute; background-image: url(&quot;images/parallax/1.jpg&quot;); background-position: center center; background-repeat: no-repeat; background-size: cover; width: 1800px; height: 1128.38px; transform: translate3d(0px, -109.237px, 0px); z-index: -1;"></div>
+    <div class="parallax-overlay bg-opacity-8">
+      <div class="container sec-tpadding-2 sec-bpadding-2">
+        <div class="row">
+          <div class="col-md-3">
+            <div class="ce-feature-box-43 active margin-bottom">
+              <div class="icon-plain-small center dark icon"><span class="icon-umbrella"></span></div>
+              <br>
+              <h2 class="font-weight-6 less-mar-1 title">100</h2>
+              <h6 class="subtext">Happy Customers</h6>
+              <br>
             </div>
-            <!--end item-->
-            
-            <div class="col-md-3">
-              <div class="ce-feature-box-43 margin-bottom">
-                <div class="icon-plain-small center dark icon"><span class="icon-layers"></span></div>
-                <br>
-                <h2 class="font-weight-6 less-mar-1 title">1986</h2>
-                <h6 class="subtext">Project Completed</h6>
-              </div>
-            </div>
-            <!--end item-->
-            
-            <div class="col-md-3">
-              <div class="ce-feature-box-43 active margin-bottom">
-                <div class="icon-plain-small center dark icon"><span class="icon-map"></span></div>
-                <br>
-                <h2 class="font-weight-6 less-mar-1 title">3254</h2>
-                <h6 class="subtext">New Features</h6>
-              </div>
-            </div>
-            <!--end item-->
-            
-            <div class="col-md-3">
-              <div class="ce-feature-box-43 margin-bottom">
-                <div class="icon-plain-small center dark icon"><span class="icon-camera"></span></div>
-                <br>
-                <h2 class="font-weight-6 less-mar-1 title">1629</h2>
-                <h6 class="subtext">Image Filters</h6>
-              </div>
-            </div>
-            <!--end item--> 
-            
           </div>
+          <!--end item-->
+          
+          <div class="col-md-3">
+            <div class="ce-feature-box-43 margin-bottom">
+              <div class="icon-plain-small center dark icon">
+                <span class="icon-rocket"></span>
+              </div>
+              <br>
+              <h2 class="font-weight-6 less-mar-1 title">21</h2>
+              <h6 class="subtext">Enterprise Project Completed</h6>
+            </div>
+          </div>
+          <!--end item-->
+          
+          <div class="col-md-3">
+            <div class="ce-feature-box-43 margin-bottom">
+              <div class="icon-plain-small center dark icon">
+                <span class="icon-shield"></span>
+              </div>
+              <br>
+              <h2 class="font-weight-6 less-mar-1 title">140</h2>
+              <h6 class="subtext">Premium Project Completed</h6>
+            </div>
+          </div>
+          <!--end item-->
+          
+          <div class="col-md-3">
+            <div class="ce-feature-box-43 margin-bottom">
+              <div class="icon-plain-small center dark icon"><span class="icon-basket"></span></div>
+              <br>
+              <h2 class="font-weight-6 less-mar-1 title">07</h2>
+              <h6 class="subtext">Own Software Product</h6>
+              <br>
+            </div>
+          </div>
+          <!--end item--> 
+          
         </div>
       </div>
     </div>
-   <div class="clearfix"></div>
-   <section class="sec-padding section-primary">
+  </div>
+  <div class="clearfix"></div>
+  <!-- end of Banner -->
+   
+   
+<section class="sec-padding section-primary">
   <div class="container">
   <div class="row">
   
-  <div class="col-md-6">  
- <div class="text-box white padding-3"> 
- <img src="images/p4.jpg" alt="" class="img-responsive">
- 
-</div>      
-  </div>
-  <!--end item-->
+{{-- <div class="col-md-6">  
+  <div class="text-box white padding-3"> 
+  <img src="images/p4.jpg" alt="" class="img-responsive">
+  </div>      
+</div> --}}
+
+
+<div class="col-md-6">  
+    <div class="text-box white padding-6"> 
+     
+      <div class="col-sm-12 nopadding">
+    
+        <div class="sec-title-container less-padding-3 text-left">
+            <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary">Your Dream Is Our Mission</h5>
+            <h2 class="font-weight-6 less-mar-1 line-height-4">MISSION</h2>
+            <div class="ce-title-line align-left"></div>
+            <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary">Deliver Innovative Web and Mobile Solutions</h5>
+            <p>To create highly innovative and business-centered web and mobile applications by utilizing the latest technologies.</p>
+            <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary">Ensure Complete Transparency</h5>
+            <p>To ensure complete transparency in the procedure and build trust by providing regular updates on the project.</p>
+            <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary">Equal Priority To All</h5>
+            <p>To give equal priority to all our customers regardless what is the size, type or criticality of their project.
+              </p> 
+          </div>
+    
+      </div>
+    </div>      
+    </div>
+    <!--end item-->
+
   
-  <div class="col-md-6">  
- <div class="text-box white padding-6"> 
+<div class="col-md-6">  
+<div class="text-box white padding-6"> 
  
   <div class="col-sm-12 nopadding">
-                <div class="sec-title-container less-padding-3 text-left">
-                  <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary">What we offer for your business</h5>
-                  <h2 class="font-weight-6 less-mar-1 line-height-4">We Create awesome<br>
-                    for your Business </h2>
-                  <div class="ce-title-line align-left"></div>
-                </div>
-              </div>
-              <div class="clearfix"></div>
-              <!--end title-->
-          
-{{--             
-  <h4 class="raleway">consectetuer adipiscing elit Suspendisse et justo Praesent mattis commodo augue</h4> --}}
-<p>
-    LRB Info Tech is the renowned and leading Web Designing Company which started its service to the clients during the year 2013; its main aim is to grasp the valuable expectations of the customers and to provide them the value which would satisfy them to the core extent. We have gained most of our valuable customers through our cost – effective solutions which happened on time.
 
-    In this company we provide a wide range of products and services which would enable every customer to know about our inert domain expertise and our expertise in the leading technologies.</p> 
-<br>
-<p>
-    The customers feel really satisfied with the budget we call for and they come to us for the business in regular basis because of the customer relationship which we provide to the entire customer even after the.</p>
-  
+    <div class="sec-title-container less-padding-3 text-left">
+      <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary">Our Dream Is Our Vision</h5>
+      <h2 class="font-weight-6 less-mar-1 line-height-4">VISION</h2>
+      <div class="ce-title-line align-left"></div>
+      <p>To become a prime performer in the global marketplace by providing highly innovative web designing, web development and internet marketing services that will drive our clients' business towards growth. Worldwide reputation is the dream of every company and we want to achieve it through our work.</p> 
+      <br> <br> <br> <br> <br> <br> <br> <br>
+    </div>
+
+  </div>
 </div>      
-  </div>
-  <!--end item-->
+</div>
+<!--end item-->
 
-  </div>
+</div>
   </div>
   </section>
    <div class="clearfix"></div>
@@ -309,8 +340,7 @@
                     </div>
                     <div class="clearfix"></div>
                     <br>
-                    <p>
-                        An excellent service provider, we were looking for quality SEO and SMO services. Luckily we found LRB Info Tech with the highly expert team and good client servicing. It’s a basket full of services, will recommend others for sure..</p>
+                    <p>An excellent service provider, we were looking for quality SEO and SMO services. Luckily we found LRB Info Tech with the highly expert team and good client servicing. It’s a basket full of services, will recommend others for sure.</p>
                   </div>
                 </div>
                 <!--end item--> 
@@ -320,7 +350,17 @@
               
               <!--end carousel item--> 
               
-            <div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
+            <div class="owl-controls clickable">
+              <div class="owl-pagination">
+                <div class="owl-page active">
+                  <span class=""></span>
+                </div>
+                <div class="owl-page">
+                  <span class=""></span>
+                </div>
+              </div>
+            </div>
+          </div>
             <!--end carousel--> 
             
           </div>

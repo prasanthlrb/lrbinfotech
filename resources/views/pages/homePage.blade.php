@@ -1,16 +1,50 @@
 @extends('pages.app')
 @section('headers')
-<title>LRB INFO TECH - Home Page</title>
-<meta name="keywords" content="themeforest" />
-<meta name="description" content="responsive html website template">
-<meta name="author" content="codelayers">
+<title>Web Development Company in Madurai | Web Design Company in Madurai - LRB INFO TECH</title>
+
+<meta name="keywords" content="Web Designing Company Madurai, Web Design Company in Madurai, Web Design Agency in Madurai, Website Designing Companies in Madurai, Web Development Company Madurai, Top Web Designing Companies Madurai, Website Development Company Madurai, Website developers in Madurai, Best Web Designers in Madurai, Web Design Services in Madurai" />
+<meta name="description" content="LRB INFO TECH is a full service web development company in Madurai, delivering outstanding web design, content writing, mobile development, SEO and digital marketing company serving industry leaders and SME’s." />
+<link rel="canonical" href="https://lrbtech.com/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+
+    <meta name="abstract" content="Web Development Company in Madurai, Web Design Company in Madurai, SEO Company in Madurai, Digital Marketing Company in Madurai, Advertising Agency in Madurai, eCommerce Development Company Madurai, Mobile Application Development Company Madurai">
+    <meta name="Author" content="LRB INFO TECH ">
+    <meta name="copyright" content="LRB INFO TECH ">
+    <meta name="Distribution" content="global">
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow">
+    <meta itemprop="name" content="Web Development Company in Madurai, Web Design Company in Madurai, SEO Company in Madurai, Digital Marketing Company in Madurai, Advertising Agency in Madurai, eCommerce Development Company Madurai, Mobile Application Development Company Madurai">
+    <meta itemprop="description" content="LRB INFO TECH is a full service web development company in Madurai, delivering outstanding web design, content writing, mobile development, SEO and digital marketing company serving industry leaders and SME’s.">
+    <meta itemprop="image" content="https://lrbtech.com/images/logo.png">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://lrbtech.com/"/>
+    <meta property="og:site_name" content="LRB INFO TECH">
+    <meta property="og:title" content="Web Development Company in Madurai | Web Design Company in Madurai - LRB INFO TECH">
+    <meta property="og:author" content="LRB INFO TECH ">
+    <meta property="og:image" content="https://lrbtech.com/images/logo.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@InfoLrb">
+    <meta name="twitter:domain" content="InfoLrb"/>
+    <meta name="twitter:creator" content="@InfoLrb">
+    <meta name="twitter:title" content="Web Development Company in Madurai | Web Design Company in Madurai - LRB INFO TECH">
+    <meta name="twitter:description" content="Vistas is a full service web development company in Madurai, delivering outstanding web design, content writing, mobile development, SEO and digital marketing company serving industry leaders and SME’s.">
+    <meta name="twitter:image" content="https://lrbtech.com/images/logo.png">
+    <meta name="Language" content="en" />
+    <meta name="Rating" content="General" />
+    <meta name="audience" content="all" />
+    <meta name="expires" content="never" />
+    <meta name="Designer" content="LRB INFO TECH " />
+    <meta name="owner" content="LRB INFO TECH " />
+
 @endsection
+
 @section('extra-css')
 <link rel="stylesheet" type="text/css" href="js/revolution-slider/css/settings.css">
 <link rel="stylesheet" type="text/css" href="js/revolution-slider/css/layers.css">
 <link rel="stylesheet" type="text/css" href="js/revolution-slider/css/navigation.css">
-
 @endsection
+
 @section('pages')
 
     <div class="clearfix"></div>
@@ -351,15 +385,51 @@
     </div>
     <div class="clearfix"></div>
     <!-- END OF SLIDER WRAPPER -->
+
+    <section class="sec-padding " >
+      <div class="container">
+        <div class="row">
+                
+          <div class="col-md-5 padding-left-5">
+           
+           <div class="col-sm-12 nopadding">
+              <div class="sec-title-container less-padding-3 text-left">
+                <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary">Web Development Company in Madurai</h5>
+                <h2 class="font-weight-6 less-mar-1 line-height-4">About Us</h2>
+                <div class="ce-title-line align-left"></div>
+              </div>
+            </div>
+            <div class="clearfix"></div>
+            <!--end title-->
+              
+            <p>'<a href="lrbtech.com" class="text-primary"><b>LRB INFO TECH</b></a> is an innovative and creative <a href="lrbtech.com" class="text-primary"><b>Software and Web Development Company in Madurai</b></a>,Our professional team is well experienced and forward thinking. Our specialty in crafting bespoken website design solutions that assist our patrons creates a wonderful web presence that matches your company’s individuality'</p>
+            
+            <br/>
+            <a class="btn btn-prim btn-round uppercase" href="#">Read more</a> </div>
+          <!--end item--> 
+
+          <div class="col-md-7 margin-bottom"> 
+            <img src="images/p7.jpg" alt="web design company in madurai" class="img-responsive"/> 
+          </div>
+            <!--end item-->
+          
+           
+        </div>
+      </div>
+    </section>
+    <div class="clearfix"></div>
+    <!-- end section -->
     
-    <section class="section-primary section-bgimg-10">
+
+    
+    <!-- <section class="section-primary section-bgimg-10">
       <div class="container-fluid"> </div>
       <div class="container-fluid">
         <div class="row no-gutter">
           <div class="col-md-7 col-sm-12 col-xs-12 margin-bottom"> <img src="images/4.png" alt="" class="img-responsive"> </div>
           <!--end item-->
           
-          <div class="col-md-5 sec-padding">
+          {{-- <div class="col-md-5 sec-padding">
             <div class="col-md-8">
               <div class="col-sm-12 nopadding">
                 <div class="sec-title-container less-padding-4 text-left">
@@ -368,23 +438,23 @@
                   <div class="ce-title-line align-left white"></div>
                 </div>
               </div>
-              <div class="clearfix"></div>
+              <div class="clearfix"></div> --}}
               <!--end title-->
-              
+{{--               
               <p class="text-white">We provide our services at a market price with high-quality worth the value spent and we are the pioneers of modern Web Development Standards </p>
               <br>
               <div class="iconlist-2">
                 <div class="icon"><i class="fa fa-arrow-circle-right text-white"></i></div>
                 <div class="text-white"> Similar to store ambience website design drives more online customers and generates profitable business to you. Being an experienced web design company in Madurai, we are highly aware of this fact and hence provide your website with attractive designs.</div>
-              </div>
+              </div> --}}
               <!--end item-->
               
-              <div class="iconlist-2">
+              {{-- <div class="iconlist-2">
                 <div class="icon"><i class="fa fa-arrow-circle-right text-white"></i></div>
                 <div class="text-white"> Ecommerce store can avoid physical maintenance and on the other hand, a normal website design elements the spend on ads and other marketing stuff. Our website designers in Madurai brings out the required design pattern lends a great supporting hand in creating a suitable and measurable marketing campaign.
 
                 </div>
-              </div>
+              </div> --}}
               <!--end item-->
               
               {{-- <div class="iconlist-2">
@@ -399,17 +469,17 @@
               </div> --}}
               <!--end item-->
               
-              <div class="clearfix"></div>
+              {{-- <div class="clearfix"></div>
               <br>
               <br>
               <a class="btn btn-white btn-round uppercase" href="/about"><i class="fa fa-play-circle" aria-hidden="true"></i> Read more</a> </div>
-          </div>
+          </div> --}}
           <!--end item--> 
           
-        </div>
+        {{-- </div>
       </div>
     </section>
-    <div class="clearfix"></div>
+    <div class="clearfix"></div> --> --}}
     <!-- end of About -->
 
 
@@ -422,10 +492,8 @@
               <h2 class="font-weight-6 less-mar-1 line-height-5">Best Popular Services</h2>
               <div class="ce-title-line"></div>
               <h6 class="ce-sub-text raleway opacity-5">
-                 Good design is noticeable. Great design is transparent
-
-                  LRB Tech is a full service web design & development company in madurai.
-                  We combine our strong capability in core web technologies with our understanding of various business processes and functional domains in providing you a unique solution that is best suited for your business. .</h6>
+                 Good design is noticeable. Great design is transparent <a href="lrbtech.com" class="text-primary"><b>LRB INFO TECH</b></a> is a full service <a href="lrbtech.com" class="text-primary"><b>web design & development company in madurai. </b></a>
+                  We combine our strong capability in core web technologies with our understanding of various business processes and functional domains in providing you a unique solution that is best suited for your business. </h6>
             </div>
           </div>
           <div class="clearfix"></div>
@@ -458,8 +526,7 @@
                   <div class="clearfix"></div>
                   <br/>
                   <div class="text-box">
-                    <h5 class="title font-weight-5">MOBILE APPLICATION DEVELOPMENT
-</h5>
+                    <h5 class="title font-weight-5">MOBILE APPLICATION DEVELOPMENT</h5>
                     <p>Our comprehensive mobile app development services can cater to support your products ranging from web integration to a mobile portal.</p>
                     <br/>
                     <br/>
@@ -476,8 +543,7 @@
                   <div class="clearfix"></div>
                   <br/>
                   <div class="text-box">
-                    <h5 class="title font-weight-5">Digital Marketing
-</h5>
+                    <h5 class="title font-weight-5">Digital Marketing</h5>
                     <p>Scenarios and strategies for SEO are changing continuously and you need strong partners who are fully aware of the changing needs to help you optimize your websites..</p>
                     <br/>
                     <br/>
@@ -563,13 +629,16 @@
                 <br>
                 <h2 class="font-weight-6 less-mar-1 title">100</h2>
                 <h6 class="subtext">Happy Customers</h6>
+                <br>
               </div>
             </div>
             <!--end item-->
             
             <div class="col-md-3">
               <div class="ce-feature-box-43 margin-bottom">
-                <div class="icon-plain-small center dark icon"><span class="icon-rocket"></span></div>
+                <div class="icon-plain-small center dark icon">
+                  <span class="icon-rocket"></span>
+                </div>
                 <br>
                 <h2 class="font-weight-6 less-mar-1 title">21</h2>
                 <h6 class="subtext">Enterprise Project Completed</h6>
@@ -579,7 +648,9 @@
             
             <div class="col-md-3">
               <div class="ce-feature-box-43 margin-bottom">
-                <div class="icon-plain-small center dark icon"><span class="icon-shield"></span></div>
+                <div class="icon-plain-small center dark icon">
+                  <span class="icon-shield"></span>
+                </div>
                 <br>
                 <h2 class="font-weight-6 less-mar-1 title">140</h2>
                 <h6 class="subtext">Premium Project Completed</h6>
@@ -593,6 +664,7 @@
                 <br>
                 <h2 class="font-weight-6 less-mar-1 title">07</h2>
                 <h6 class="subtext">Own Software Product</h6>
+                <br>
               </div>
             </div>
             <!--end item--> 
@@ -756,199 +828,8 @@
     <div class="clearfix"></div>
     <!-- end of Mobile App -->
 
-    <section class="section-side-image clearfix">
-      <div class="img-holder col-md-5 col-sm-3 pull-left">
-        <div class="background-imgholder" style="background:url(images/14.jpg);"> <img class="nodisplay-image" src="images/14.jpg" alt=""> </div>
-      </div>
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 text-inner clearfix align-left">
-            <div class="ce-feature-box-49">
-              <div class="col-sm-12 nopadding">
-                <div class="sec-title-container less-padding-1 text-left">
-                  <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary opacity-9">Who we are and what we do</h5>
-                  <h2 class="font-weight-6 less-mar-1 line-height-5">Creative agency studio</h2>
-                  <div class="ce-title-line align-left"></div>
-                </div>
-              </div>
-              <div class="clearfix"></div>
-              <!--end title-->
-              
-              <div class="col-md-6 col-xs-12">
-                <div class="item-holder">
-                  <div class="icon-plain-small left"> <span class="pe-7s-alarm text-primary"></span></div>
-                  <div class="text-box-right less-padding-1">
-                    <h5>Nullam turpis Cras et sit justo dapibus</h5>
-                    <p>Lorem ipsum dolor sit amet et justo lorem dolor consectetuer adipiscing elit Suspendisse.</p>
-                  </div>
-                </div>
-              </div>
-              <!--end item-->
-              
-              <div class="col-md-6 col-xs-12">
-                <div class="item-holder">
-                  <div class="icon-plain-small left"> <span class="pe-7s-photo-gallery text-primary"></span></div>
-                  <div class="text-box-right less-padding-1">
-                    <h5>Nullam turpis Cras et sit justo dapibus</h5>
-                    <p>Lorem ipsum dolor sit amet consectetuer adipiscing elit Suspendisse.</p>
-                  </div>
-                </div>
-              </div>
-              <!--end item-->
-              
-              <div class="clearfix"></div>
-              <div class="col-divider-margin-4"></div>
-              <div class="col-md-6 col-xs-12">
-                <div class="item-holder">
-                  <div class="icon-plain-small left"> <span class="pe-7s-search text-primary"></span></div>
-                  <div class="text-box-right less-padding-1">
-                    <h5>Nullam turpis Cras et sit justo dapibus</h5>
-                    <p>Lorem ipsum dolor sit amet et justo lorem dolor consectetuer adipiscing elit Suspendisse.</p>
-                  </div>
-                </div>
-              </div>
-              <!--end item-->
-              
-              <div class="col-md-6 col-xs-12">
-                <div class="item-holder">
-                  <div class="icon-plain-small left"> <span class="pe-7s-unlock text-primary"></span></div>
-                  <div class="text-box-right less-padding-1">
-                    <h5>Nullam turpis Cras et sit justo dapibus</h5>
-                    <p>Lorem ipsum dolor sit amet consectetuer adipiscing elit Suspendisse.</p>
-                  </div>
-                </div>
-              </div>
-              <!--end item--> 
-              
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
-    <div class="clearfix"></div>
-    <!-- end of RTG Tracker -->
     
-    <section class="section-side-image section-dark sec-padding clearfix">
-      <div class="img-holder col-md-12 col-sm-3 pull-left">
-        <div class="background-imgholder" style="background:url(images/46.jpg);"><img class="nodisplay-image" src="images/46.jpg" alt=""> </div>
-      </div>
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-sm-12">
-            <div class="sec-title-container text-center">
-              <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary opacity-9">Our Workflow</h5>
-              <h2 class="font-weight-6 less-mar-1 text-white line-height-5">Our Work Process Flow</h2>
-              {{-- {{-- <div class="ce-title-line"></div>
-              <h6 class="ce-sub-text text-white raleway opacity-7">Praesent mattis commodo augue Aliquam ornare hendrerit augue Cras tellus In pulvinar lectus a est Curabitur eget orci Cras laoreet ligula Etiam .</h6>
-            </div> --}}
-          </div> 
-          <div class="clearfix"></div>
-          <!--end title-->
-          <div class="clearfix"></div>
-          <div class="col-divider-margin-6"></div>
-          <div class="col-md-10 col-centered">
-
-              <div class="col-md-4 col-sm-12 col-xs-12">
-                <div class="ce-feature-box-33 margin-bottom light">
-                  <div class="iconbox-xmedium left round icon">01</div>
-                  <div class="clearfix"></div>
-                  <br>
-                  <div class="text-box">
-                    <h4 class="title">REQUIREMENT GATHERING</h4>
-                    <p>view are analysis your business model to the gathering your business mode based requirements.</p>
-                    <br>
-                    <a class="read-more" href="#">Read more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-                   </div>
-                </div>
-              </div>
-              <!--end item-->
-              
-              <div class="col-md-4 col-sm-12 col-xs-12">
-                <div class="ce-feature-box-33 margin-bottom">
-                  <div class="iconbox-xmedium left round icon">02</div>
-                  <div class="clearfix"></div>
-                  <br>
-                  <div class="text-box">
-                    <h4 class="title">DESIGN</h4>
-                    <p>We will create a beautiful, affordable website design for your creative marketing project.</p>
-                    <br>
-                    <a class="read-more" href="#">Read more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> </div>
-                </div>
-              </div>
-              <!--end item-->
-              
-              <div class="col-md-4 col-sm-12 col-xs-12">
-                <div class="ce-feature-box-33 margin-bottom light">
-                  <div class="iconbox-xmedium left round icon">03</div>
-                  <div class="clearfix"></div>
-                  <br>
-                  <div class="text-box">
-                    <h4 class="title">CLIENT REVIEW APPROACH</h4>
-                    <p>We develop content management systems for clients who need more than just the basics</p>
-                    <br>
-                    <a class="read-more" href="#">Read more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> </div>
-                </div>
-              </div>
-              <!--end item-->      
-
-            </div>
-
-
-<div class="clearfix"></div>
-          <div class="col-divider-margin-6"></div>
-          <div class="col-md-10 col-centered">
-
-              <div class="col-md-4 col-sm-12 col-xs-12">
-                <div class="ce-feature-box-33 margin-bottom light">
-                  <div class="iconbox-xmedium left round icon">04</div>
-                  <div class="clearfix"></div>
-                  <br>
-                  <div class="text-box">
-                    <h4 class="title">DEVLOPEMENT</h4>
-                    <p>The most appropriate development techniques and methodologies with the best domain expertise and project management tools.</p>
-                    <br>
-                    <a class="read-more" href="#">Read more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-                   </div>
-                </div>
-              </div>
-              <!--end item-->
-              
-              <div class="col-md-4 col-sm-12 col-xs-12">
-                <div class="ce-feature-box-33 margin-bottom">
-                  <div class="iconbox-xmedium left round icon">05</div>
-                  <div class="clearfix"></div>
-                  <br>
-                  <div class="text-box">
-                    <h4 class="title">MAINTENANCE</h4>
-                    <p>Website Maintenance primarily involves updating a particular website according to the changes it intakes during the process of its rejuvenation.</p>
-                    <br>
-                    <a class="read-more" href="#">Read more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> </div>
-                </div>
-              </div>
-              <!--end item-->
-              
-              <div class="col-md-4 col-sm-12 col-xs-12">
-                <div class="ce-feature-box-33 margin-bottom light">
-                  <div class="iconbox-xmedium left round icon">06</div>
-                  <div class="clearfix"></div>
-                  <br>
-                  <div class="text-box">
-                    <h4 class="title">SERVICE</h4>
-                    <p>Flexibility is the primary driving factor for survival, and it also suits for technologies to ensure their existence in this highly transforming business world. Adopting our Headless CMS Web Design services helps your organization to establish an affirmative place in the industry by acquiring all the digital platforms</p>
-                    <br>
-                    <a class="read-more" href="#">Read more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> </div>
-                </div>
-              </div>
-              <!--end item-->      
-            </div>
-
-
-
-          </div>
-       </div>
-      </div>
-    </section>
     <div class="clearfix"></div>
     <!-- end of WorkProgress Flow -->
     <section class="sec-padding-4 section-primary">
@@ -972,11 +853,9 @@
             <div class="col-sm-12">
               <div class="sec-title-container text-center">
                 <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary opacity-9">Our Features</h5>
-                <h2 class="font-weight-6 less-mar-1 text-white line-height-5">Get Unlimited Features</h2>
+                <h2 class="font-weight-6 less-mar-1 text-white line-height-5">GREAT SUPPORT</h2>
                 <div class="ce-title-line"></div>
-                <h6 class="ce-sub-text text-white raleway opacity-7">We hold the most commanding base of technology stack for web designing to provide high eccentric
-                  solutions to
-                  our diversified industrial clients.</h6>
+                <h6 class="ce-sub-text text-white raleway opacity-7">Satisfy Customers. Strengthen Relationships. Build Loyalty.</h6>
               </div>
             </div>
             <div class="clearfix"></div>
@@ -984,10 +863,10 @@
             
             <div class="col-md-4">
               <div class="ce-feature-box-2 text-center">
-                <div class="icon-plain-small center icon"><span class="icon-hotairballoon"></span></div>
+                <div class="icon-plain-small center icon"><span class="icon-clock"></span></div>
                 <br>
-                <h5 class="title font-weight-5 text-white">Fully Responsive</h5>
-                <p class="text-white opacity-7">Our goal is not just to deliver a website, but to provide complete solutions from designing to marketing your website to your preferred target segments.</p>
+                <h5 class="title font-weight-5 text-white">24/7 </h5>
+                <p class="text-white opacity-7">we are warmly welcome customer in 24/7 Call or Chat Support</p>
               </div>
             </div>
             <!--end item-->
@@ -996,8 +875,8 @@
               <div class="ce-feature-box-2 text-center">
                 <div class="icon-plain-small center icon"><span class="icon-lightbulb"></span></div>
                 <br>
-                <h5 class="title font-weight-5 text-white">Classic Styles</h5>
-                <p class="text-white opacity-7">Acquiring the best web design service will eventually create trust in your business amongst the clients and intend them to approach you..</p>
+                <h5 class="title font-weight-5 text-white">On Time Delivery</h5>
+                <p class="text-white opacity-7">We Using 7 agile techniques to deliver projects Timely and more effectively</p>
               </div>
             </div>
             <!--end item-->
@@ -1006,8 +885,8 @@
               <div class="ce-feature-box-2 no-border text-center">
                 <div class="icon-plain-small center icon"><span class="icon-layers"></span></div>
                 <br>
-                <h5 class="title font-weight-5 text-white">Secure Services</h5>
-                <p class="text-white opacity-7">We have most creative web designers in our company to design standard high quality websites and also skilled to create your dream designs</p>
+                <h5 class="title font-weight-5 text-white">Friendly Environment</h5>
+                <p class="text-white opacity-7">We believe in Every great business is built on friendship</p>
               </div>
             </div>
             <!--end item--> 
@@ -1046,131 +925,7 @@
 
 
 
-    <div class="parallax vertical-align" data-parallax-bg-image="images/parallax/1.jpg" data-parallax-speed="0.9" data-parallax-direction="down" style="position: relative; background: transparent; overflow: hidden; z-index: 1;"><div class="parallax-inner" style="position: absolute; background-image: url(&quot;images/parallax/1.jpg&quot;); background-position: center center; background-repeat: no-repeat; background-size: cover; width: 1800px; height: 2173.27px; transform: translate3d(0px, -132.975px, 0px); z-index: -1;"></div>
-      <div class="parallax-overlay bg-opacity-8">
-        <div class="container sec-tpadding-2 sec-bpadding-2">
-          <div class="row slide-controls-2">
-            <div class="col-sm-12">
-              <div class="sec-title-container text-center">
-                <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary opacity-9">Our Testimonials </h5>
-                <h2 class="font-weight-6 less-mar-1 text-white line-height-5">What Our Clients Says</h2>
-                <div class="ce-title-line"></div>
-                <h6 class="ce-sub-text text-white raleway">Praesent mattis commodo augue Aliquam ornare hendrerit augue Cras tellus In pulvinar lectus a est Curabitur eget orci Cras laoreet ligula Etiam .</h6>
-              </div>
-            </div>
-            <div class="clearfix"></div>
-            <!--end title-->
-            
-            <div id="owl-demo3" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
-              <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 4800px; left: 0px; display: block;"><div class="owl-item" style="width: 1200px;"><div class="item">
-                <div class="col-md-4">
-                  <div class="ce-feature-box-1 margin-bottom">
-                    <div class="img-circle">
-                      <div class="imgbox-small round overflow-hidden left img"><img src="images/1.jpg" alt="" class="img-responsive"></div>
-                    </div>
-                    <div class="text-box-right">
-                      <h5 class="less-mar-1">Benjamin</h5>
-                      <p><span class="text-primary">Mediatricks</span></p>
-                    </div>
-                    <div class="clearfix"></div>
-                    <br>
-                    <p>LRB INFOTECH has a keen eye and an outstanding design sense. LRB reflected our design styles while also challenging us to stretch our imagination and the outcome has always been beautiful.</p>
-                  </div>
-                </div>
-                <!--end item-->
-                
-                <div class="col-md-4">
-                  <div class="ce-feature-box-1 margin-bottom">
-                    <div class="img-circle">
-                      <div class="imgbox-small round overflow-hidden left img"><img src="images/2.jpg" alt="" class="img-responsive"></div>
-                    </div>
-                    <div class="text-box-right">
-                      <h5 class="less-mar-1">Isabella</h5>
-                      <p><span class="text-primary">Designer</span></p>
-                    </div>
-                    <div class="clearfix"></div>
-                    <br>
-                    <p>We strongly believe good design can benefit anyone and not just the elite. With good design, any project will get the benefits of efficiency through planning and prioritization.</p>
-                  </div>
-                </div>
-                <!--end item-->
-                
-                <div class="col-md-4">
-                  <div class="ce-feature-box-1 margin-bottom">
-                    <div class="img-circle">
-                      <div class="imgbox-small round overflow-hidden left img"><img src="images/3.jpg" alt="" class="img-responsive"></div>
-                    </div>
-                    <div class="text-box-right">
-                      <h5 class="less-mar-1">Charlotte</h5>
-                      <p><span class="text-primary">Developer</span></p>
-                    </div>
-                    <div class="clearfix"></div>
-                    <br>
-                    <p>Working with the LRB team has been a most pleasant experience! Their dedication and passion for what they do is exemplified by their unrivaled customer support and attentiveness to the specific needs of our business.</p>
-                  </div>
-                </div>
-                <!--end item--> 
-              </div></div><div class="owl-item" style="width: 1200px;"><div class="item">
-                <div class="col-md-4">
-                  <div class="ce-feature-box-1 margin-bottom">
-                    <div class="img-circle">
-                      <div class="imgbox-small round overflow-hidden left img"><img src="images/1.jpg" alt="" class="img-responsive"></div>
-                    </div>
-                    <div class="text-box-right">
-                      <h5 class="less-mar-1">Benjamin</h5>
-                      <p><span class="text-primary">Mediatricks</span></p>
-                    </div>
-                    <div class="clearfix"></div>
-                    <br>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit sit amet Suspendisse et justo.</p>
-                  </div>
-                </div>
-                <!--end item-->
-                
-                <div class="col-md-4">
-                  <div class="ce-feature-box-1 margin-bottom">
-                    <div class="img-circle">
-                      <div class="imgbox-small round overflow-hidden left img"><img src="images/2.jpg" alt="" class="img-responsive"></div>
-                    </div>
-                    <div class="text-box-right">
-                      <h5 class="less-mar-1">Isabella</h5>
-                      <p><span class="text-primary">Designer</span></p>
-                    </div>
-                    <div class="clearfix"></div>
-                    <br>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit sit amet Suspendisse et justo.</p>
-                  </div>
-                </div>
-                <!--end item-->
-                
-                <div class="col-md-4">
-                  <div class="ce-feature-box-1 margin-bottom">
-                    <div class="img-circle">
-                      <div class="imgbox-small round overflow-hidden left img"><img src="images/3.jpg" alt="" class="img-responsive"></div>
-                    </div>
-                    <div class="text-box-right">
-                      <h5 class="less-mar-1">Charlotte</h5>
-                      <p><span class="text-primary">Developer</span></p>
-                    </div>
-                    <div class="clearfix"></div>
-                    <br>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit sit amet Suspendisse et justo.</p>
-                  </div>
-                </div>
-                <!--end item--> 
-              </div></div></div></div>
-              <!--end carousel item-->
-              
-              
-              <!--end carousel item--> 
-              
-            <div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
-            <!--end carousel--> 
-            
-          </div>
-        </div>
-      </div>
-    </div>
+   @include('pages.homePage.client')
     <div class="clearfix"></div>
     <!-- end of Testimonials -->
 
